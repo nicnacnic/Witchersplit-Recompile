@@ -1,1 +1,0 @@
-START injector.exe "D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe"
